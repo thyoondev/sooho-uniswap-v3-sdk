@@ -1,5 +1,5 @@
 {
-  "name": "@soohoio/v3-sdk",
+  "name": "@thyoondev/v3-sdk",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
